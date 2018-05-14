@@ -2,7 +2,7 @@
   "name": "pv1",
   "version": "0.0.1",
   "dependencies": {
-    "left-pad": "1.0.0",
+    "left-pad": "1.3.0",
     "@rarkins/nnnnnnnnnnnn": "1.0.0"
   },
   "renovate": {}
